@@ -2,27 +2,21 @@
 title: 'Projets'
 date: 2024-05-19
 type: landing
-
 design:
-  # Section spacing
   spacing: '5rem'
-
-# Page sections
 sections:
   - block: collection
     content:
-      title: Projets sélectionnés
-      text: Voici une sélection de projets sur lesquels j'ai travaillé ou que je compléterai prochainement.
+      title: Projets & Expériences
+      text: Mes expériences et projets académiques réalisés dans le cadre de ma formation en Business Administration.
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
       show_date: false
       show_read_time: false
       show_read_more: false
 ---
-
-<!-- AJOUTER LES PROJETS DE ROUMAYSSA ICI -->
