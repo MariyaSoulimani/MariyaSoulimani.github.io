@@ -2,99 +2,89 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Roumayssa Benahmed
+  given: Roumayssa
+  family: Benahmed
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🎓"
+role: Étudiante en Licence – Business Administration
+email: romayssaebenahmed@gmail.com
+# REMPLACER PAR : photo de profil de Roumayssa Benahmed (fichier avatar ou URL selon la doc Hugo Blox pour ce template)
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Étudiante en première année de Licence en Business Administration à HECI Business School Meknès. Je suis à la recherche d'un stage afin de mettre en pratique mes connaissances en gestion, découvrir le fonctionnement d'une entreprise et développer mes compétences professionnelles. Sérieuse, motivée et toujours prête à apprendre, je souhaite m'impliquer activement dans les missions qui me seront confiées.
 
-affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  ## Activités parascolaires
+
+  1. **Membre de l'atelier d'Intelligence Artificielle** – HECI Meknès  
+     Participation à des sessions d'initiation à l'IA et discussions sur son application dans le monde des affaires.
+
+  2. **Observatoire des Entreprises** – HECI Meknès  
+     Réalisation d'une étude de terrain auprès d'entreprises locales.  
+     **Gagnante – Meilleur groupe de l'année**
+
+affiliations: []
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: mailto:romayssaebenahmed@gmail.com
+    label: E-mail
+  - icon: phone
+    url: tel:+212644692238
+    label: Téléphone
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/roumayssa-benahmed/
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Entrepreneuriat
+  - Voyage & Découverte
+  - Création de contenu
+  - Sport & Bien-être
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: Baccalauréat en Sciences Physiques
+    institution: Lycée Anassi Meknès
+    start: 2022-09-01
+    end: 2023-07-31
+  - degree: 1ʳᵉ année en Physique
+    institution: Faculté des Sciences, Université Moulay Ismaïl, Meknès
+    start: 2023-09-01
+    end: 2024-07-31
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      Réorientation vers un parcours en gestion.
+  - degree: Licence en Business Administration
+    institution: HECI Business School, Meknès
+    start: 2024-10-01
+    summary: |
+      **Majeure de promotion – 1ʳᵉ année.**
 
-experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
-    summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
-    summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+experience: []
 
 skills:
-  - name: Development
+  - name: Compétences
     items:
-      - label: TypeScript
+      - label: Travail en équipe
         level: 5
-      - label: React
+      - label: Créativité et esprit d'initiative
         level: 5
-      - label: Node.js
-        level: 5
-      - label: Python
+      - label: Leadership inspirant
         level: 4
-  - name: DevOps
-    items:
-      - label: Docker
-        level: 4
-      - label: AWS
-        level: 4
-      - label: CI/CD
+      - label: Word, PowerPoint, Canva
         level: 5
+      - label: Notions de base en intelligence artificielle
+        level: 3
+      - label: CapCut (édition de contenu)
+        level: 4
 
 languages:
-  - name: English
+  - name: Arabe
     level: 5
-    label: Native
+    label: Langue maternelle
+  - name: Anglais
+    level: 4
+    label: Niveau avancé (C1)
+  - name: Français
+    level: 4
+    label: Niveau intermédiaire supérieur (B2)
 
 awards: []

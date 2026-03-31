@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Roumayssa Benahmed"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Full-Stack Developer"
+    tagline: "Ambitieuse et rigoureuse, je m'engage avec sérieux dans chaque défi pour bâtir une carrière solide en gestion et administration des affaires."
     # Site meta description for search engines and social sharing
-    description: "Modern developer portfolio showcasing web development projects, technical blog posts, and open source contributions. Built with Hugo Blox."
+    description: "Portfolio de Roumayssa Benahmed — étudiante en Licence Business Administration à HECI Meknès, à la recherche d'un stage en gestion et administration des affaires."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""               # non utilisé
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -90,7 +90,7 @@ hugoblox:
     search: true
     theme_toggle: true
     theme_picker: true
-    language_switcher: true
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -104,7 +104,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal                      # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -145,7 +145,7 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
+      note: "Contenu public du portfolio de Roumayssa Benahmed (étudiante en gestion, HECI Meknès)."
       contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -239,9 +239,9 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006"          # Go time format
-    time_format: "3:04 PM"
-    address_format: en-us
+    date_format: "2 Jan 2006"          # Go time format
+    time_format: "15:04"
+    address_format: fr-ma
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
