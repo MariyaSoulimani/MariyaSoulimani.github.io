@@ -5,6 +5,7 @@ summary: "Étude de terrain auprès d'entreprises locales. 🏆 Meilleur groupe 
 tags: ["Académique", "Analyse terrain", "Travail en équipe"]
 featured: true
 draft: false
+type: project
 image:
   filename: featured.jpg
   focal_point: Smart

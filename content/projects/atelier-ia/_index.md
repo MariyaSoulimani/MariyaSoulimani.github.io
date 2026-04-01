@@ -5,6 +5,7 @@ summary: "Initiation à l'IA et exploration de ses applications dans le monde de
 tags: ["Parascolaire", "Intelligence Artificielle", "Business"]
 featured: true
 draft: false
+type: project
 image:
   filename: featured.jpg
   focal_point: Smart

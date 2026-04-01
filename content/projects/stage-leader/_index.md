@@ -5,6 +5,7 @@ summary: "Stage en comptabilité et logistique au sein d'une société de distri
 tags: ["Stage", "Comptabilité", "Logistique", "Gestion des stocks"]
 featured: true
 draft: false
+type: project
 image:
   filename: featured.jpg
   focal_point: Smart
