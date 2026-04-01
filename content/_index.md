@@ -50,9 +50,9 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: "Projets"
-      subtitle: "Réalisations et travaux à venir"
-      count: 0
+      title: "Projets & Expériences"
+      subtitle: "Mes réalisations et expériences professionnelles"
+      count: 3
       filters:
         folders:
           - projects
