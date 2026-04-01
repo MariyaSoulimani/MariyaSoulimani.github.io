@@ -47,21 +47,27 @@ sections:
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
   
-  - block: collection
+  - block: portfolio
     id: projects
     content:
-      title: "Projets & Expériences"
-      subtitle: "Mes réalisations et expériences professionnelles"
+      title: "Projets"
+      subtitle: "Réalisations et travaux à venir"
+      count: 0
       filters:
         folders:
           - projects
+      buttons:
+        - name: Tous
+          tag: '*'
+      default_button_index: 0
     design:
-      view: article-grid
       columns: 3
-      fill_image: true
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
   
   - block: tech-stack
     id: skills
